@@ -8,12 +8,8 @@
 
 📍 São Paulo, Brazil<br>
 
-<div align="left">
-  <img height="200em" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=harrydlgs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-
+<br>
+Main skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="30" src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png"> .
   <img align="center" alt="" height="30" width="60" src="https://deinfo.uepg.br/~alunoso/2020/SO/apacheSpark/imagem/apacheSparkLogoBranco.png"> .
@@ -23,6 +19,14 @@
   <img align="center" alt="" height="30" width="25" src="https://res.cloudinary.com/practicaldev/image/fetch/s--FGYxmMD3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/t8ry4vii8zburw6eufvb.png"> .
   <img align="center" alt="" height="30" width="30" src="https://docs.microsoft.com/answers/topics/25409/icon.html?t=168439"> 
  </div>
+ <br>
+
+<div align="left">
+  <img height="200em" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=harrydlgs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
 
 <br>
 
