@@ -4,9 +4,9 @@
 
 🎓 Graduated in Systems Analysis and Development - MBA in Big Data and Business Analytics<br>
 
-📍 São Paulo, Brazil<br>
-
 📚 Knowledges: Data Analytics, Data Drivel Culture, Business Intelligence, Machine Learning and Big Data <br>
+
+📍 São Paulo, Brazil<br>
 
 <div align="left">
   <img height="200em" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif"/>
@@ -26,6 +26,7 @@
 
 <br>
 
+<h1></h1>
 <div> 
   <a href="https://instagram.com/harrydlg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/harry-santo-delgado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
